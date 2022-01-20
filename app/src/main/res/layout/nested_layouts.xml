@@ -6,18 +6,19 @@
     android:id="@+id/relative">
 
     <LinearLayout
+        android:id="@+id/linear1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/linear1"
         android:orientation="vertical">
+
         <ImageView
             android:id="@+id/img_logo"
             android:layout_width="159dp"
             android:layout_height="144dp"
             android:layout_gravity="center"
             android:background="@drawable/corner_round"
-            android:src="@drawable/image_logo"
-            android:contentDescription="TODO" />
+            android:contentDescription="TODO"
+            android:src="@drawable/image_logo" />
     </LinearLayout>
 
     <LinearLayout
