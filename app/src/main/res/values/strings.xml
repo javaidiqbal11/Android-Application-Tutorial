@@ -2,4 +2,7 @@
     <string name="app_name">Android Application Tutorial</string>
     <string name="username"> Enter Username</string>
     <string name="password"> Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="login_form">Login Form</string>
+    <string name="copyrights">Copyrights &#169; JTech Pvt Ltd, Lahore</string>
 </resources>
