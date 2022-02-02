@@ -11,4 +11,4 @@
 - Install [JDK](https://www.oracle.com/java/technologies/downloads/)
 - Install Virtaul Device in the Android to see the outputs. 
 
-![Output Screens](https://myoctocat.com/assets/images/base-octocat.svg)
+![Output Screens](https://github.com/javaidiqbal11/Android-Application-Tutorial/blob/master/home.jpeg)
