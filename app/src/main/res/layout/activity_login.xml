@@ -49,6 +49,7 @@
             android:id="@+id/ed_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:inputType="textPassword"
             android:drawableLeft="@drawable/ic_baseline_vpn_key_24"
             android:hint="Enter Passwords" />
 
@@ -75,8 +76,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_marginTop="0dp"
+            android:paddingTop="208dp"
             android:text="Copyrights &#169; JTech Pvt Ltd, Lahore"
             android:textAlignment="center"
             android:textColor="@color/blue"

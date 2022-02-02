@@ -1,8 +1,22 @@
 <resources>
     <string name="app_name">Android Application Tutorial</string>
-    <string name="username"> Enter Username</string>
-    <string name="password"> Enter Password</string>
+    <string name="username"> Username</string>
+    <string name="password"> Password</string>
     <string name="submit">Submit</string>
     <string name="login_form">Login Form</string>
+    <string name="reg_form">Register Form</string>
+    <string name="name">Full Name</string>
     <string name="copyrights">Copyrights &#169; JTech Pvt Ltd, Lahore</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="reg">Register Now</string>
+    <string name="account">Do you have account? Login here</string>
+    <string name="jtech">JTech Software Solutions</string>
 </resources>

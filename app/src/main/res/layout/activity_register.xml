@@ -21,36 +21,52 @@
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/linear2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/linear2"
         android:layout_below="@+id/linear1"
         android:orientation="vertical">
+
         <TextView
+            android:id="@+id/tv_login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/tv_login"
-            android:text="@string/login_form"
-            android:textSize="24sp"
-            android:textAlignment="center"
             android:layout_marginTop="30dp"
-            android:textStyle="bold"
-            android:textColor="@color/blue"/>
+            android:text="@string/reg_form"
+            android:textAlignment="center"
+            android:textColor="@color/purple_500"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/ed_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_baseline_account_circle_24"
+            android:hint="@string/name"
+            android:minHeight="48dp"
+            tools:ignore="TextContrastCheck"
+            android:inputType="text"/>
 
         <EditText
             android:id="@+id/ed_username"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
             android:drawableLeft="@drawable/ic_baseline_account_circle_24"
-            android:hint="@string/username"/>
+            android:hint="@string/username"
+            android:minHeight="48dp"
+            tools:ignore="TextContrastCheck"
+            android:inputType="text"/>
 
         <EditText
             android:id="@+id/ed_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:drawableLeft="@drawable/ic_baseline_vpn_key_24"
-            android:hint="Enter Passwords" />
+            android:hint="@string/password"
+            android:minHeight="48dp"
+            tools:ignore="TextContrastCheck"
+            android:inputType="textPassword"/>
 
         <Button
             android:id="@+id/btn_submit"
@@ -70,16 +86,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/linear2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="false"
         android:orientation="vertical">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_marginTop="0dp"
+            android:paddingTop="175dp"
             android:text="Copyrights &#169; JTech Pvt Ltd, Lahore"
             android:textAlignment="center"
-            android:textColor="@color/blue"
+            android:textColor="@color/purple_500"
             android:textSize="14sp" />
 
     </LinearLayout>

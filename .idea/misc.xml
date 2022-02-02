@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
         <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/activity_register.xml" value="0.22335495829471733" />
+        <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/activity_splash.xml" value="0.27291666666666664" />
         <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/constraint_layout.xml" value="0.25885416666666666" />
         <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/linear_layout.xml" value="0.25" />
-        <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/nested_layouts.xml" value="0.27291666666666664" />
+        <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/nested_layouts.xml" value="0.25" />
         <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/relative_layout.xml" value="0.25885416666666666" />
       </map>
     </option>
