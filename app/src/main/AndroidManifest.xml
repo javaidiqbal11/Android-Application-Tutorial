@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidApplicationTutorial">
         <activity
+            android:name=".ListViewShow"
+            android:exported="true" />
+        <activity
+            android:name=".ListView"
+            android:exported="true" />
+        <activity
             android:name=".Login"
             android:exported="true" />
         <activity

@@ -35,5 +35,14 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "Login Here", Toast.LENGTH_LONG).show();
             }
         });
+
+        TextView textView = (TextView) findViewById(R.id.tv_view);
+        textView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent iv = new Intent(MainActivity.this, ListViewShow.class);
+                startActivity(iv);
+            }
+        });
     }
 }
