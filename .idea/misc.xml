@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/JTech/Android_App/Android-Application-Tutorial_v1/app/src/main/res/layout/activity_fragment.xml" value="0.17844202898550723" />
+        <entry key="..\:/JTech/Android_App/Android-Application-Tutorial_v1/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
+        <entry key="..\:/JTech/Android_App/Android-Application-Tutorial_v1/app/src/main/res/layout/activity_recycler_view.xml" value="0.16893115942028986" />
         <entry key="..\:/JTech/Android_App/Android-Application-Tutorial_v1/app/src/main/res/layout/fragment_blank.xml" value="0.17844202898550723" />
+        <entry key="..\:/JTech/Android_App/Android-Application-Tutorial_v1/app/src/main/res/layout/fragment_whats_app.xml" value="0.16893115942028986" />
         <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/activity_list_view.xml" value="0.27291666666666664" />
         <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/activity_list_view_show.xml" value="0.27291666666666664" />
         <entry key="..\:/Superior/AndroidApplicationTutorial/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
