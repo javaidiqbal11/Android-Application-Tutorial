@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 public class ListViewShow extends AppCompatActivity {
     ListView listView;
@@ -19,6 +20,8 @@ public class ListViewShow extends AppCompatActivity {
         listView = (ListView) findViewById(R.id.list);
         ArrayAdapter arrayAdapter = new ArrayAdapter(this, R.layout.activity_list_view, R.id.textview, weekdays);
         listView.setAdapter(arrayAdapter);
+
+        Toast.makeText(this, "ListView", Toast.LENGTH_SHORT).show();
 
     }
 }
