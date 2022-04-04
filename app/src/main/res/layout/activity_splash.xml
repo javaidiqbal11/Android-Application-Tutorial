@@ -9,8 +9,8 @@
         android:id="@+id/linear1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:paddingTop="100dp"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:paddingTop="100dp">
 
         <ImageView
             android:id="@+id/img_logo"
@@ -35,6 +35,15 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
             android:text="@string/jtech"
+            android:textAlignment="center"
+            android:textColor="@color/purple_500"
+            android:textSize="18sp"
+            android:textStyle="italic"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Service Provider"
             android:textAlignment="center"
             android:textColor="@color/purple_500"
             android:textSize="18sp"
