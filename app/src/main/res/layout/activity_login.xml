@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/tv_login"
             android:text="@string/login_form"
-            android:textSize="24sp"
+            android:textSize="26sp"
             android:textAlignment="center"
             android:layout_marginTop="30dp"
             android:textStyle="bold"
